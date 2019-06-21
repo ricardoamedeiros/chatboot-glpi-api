@@ -1,0 +1,17 @@
+{
+    "name": "chatbot-glpi-api",
+    "version": "1.0.0",
+    "description": "Esse projeto realizar a integração do Facebook Messenger, Watson Conversation e GLPI. Isso possibilita que usuários informe problemas via chatbot no messenger do Facebook e abram chamados no GLPI.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Ricardo Abreu Medeiros",
+    "license": "ISC",
+    "dependencies": {
+      "axios": "^0.18.0",
+      "bootbot": "^1.0.16",
+      "ibm-watson": "^4.0.2"
+    }
+  }
+  
